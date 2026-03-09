@@ -1,0 +1,4 @@
+Month,Predicted_Rainfall,Rainfall_Anomaly,Consecutive_Rainy_Days,Dry_Spell_Duration,Flood_Risk,Flood_Probability,Decision
+2025-01,84,24,4,6,Moderate,58.0,MONITOR_CLOSELY
+2025-02,32,-28,1,9,Low,98.0,LOG_STATUS
+2025-03,35,-25,1,9,Low,98.0,LOG_STATUS

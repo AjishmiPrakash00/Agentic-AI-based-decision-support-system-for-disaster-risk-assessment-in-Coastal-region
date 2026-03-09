@@ -1,0 +1,4 @@
+Month,Predicted_Rainfall,Rainfall_Anomaly,Consecutive_Rainy_Days,Dry_Spell_Duration
+2025-01,84,24,4,6
+2025-02,32,-28,1,9
+2025-03,35,-25,1,9
